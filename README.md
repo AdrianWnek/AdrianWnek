@@ -2,7 +2,7 @@
 
 <h2>I'm from Poland and I live in Chicago, IL</h2>
 
-👀 I’m interested in coding and I think it's Cool!
+<p>👀 I’m interested in coding and I think it's Cool!
 💻My Skills: Coding Basics (HTML, CSS, JavaScript).
 📖Full-time student at DevMountain Coding Bootcamp.
 🌱Studying Foundations.
@@ -12,4 +12,4 @@ E-Mail: adrianwnek.code@gmail.com
 <!---
 AdrianWnek/AdrianWnek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---></p>
