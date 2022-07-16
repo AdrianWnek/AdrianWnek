@@ -1,14 +1,13 @@
-👋<h1>Hi, I’m Adrian Wnek!</h1>👋
+👋<h1>Hi, I’m Adrian Wnek! I'm from Poland and I live in Chicago, IL</h1>👋
 
-<h2>I'm from Poland and I live in Chicago, IL</h2>
 
-<h5>👀 I’m interested in coding and I think it's Cool!</h5>
+👀 I’m interested in coding and I think it's Cool!
   
 💻My Skills: Coding Basics (HTML, CSS, JavaScript).
   
 📖Full-time student at DevMountain Coding Bootcamp.
   
-🌱Studying Foundations.
+🌱Studying Python🐍.
   
 📈I’m looking forward to become a Python Developer.
   
