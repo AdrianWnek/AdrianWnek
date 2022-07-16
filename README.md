@@ -3,10 +3,15 @@
 <h2>I'm from Poland and I live in Chicago, IL</h2>
 
 <p>👀 I’m interested in coding and I think it's Cool!
+  
 💻My Skills: Coding Basics (HTML, CSS, JavaScript).
+  
 📖Full-time student at DevMountain Coding Bootcamp.
+  
 🌱Studying Foundations.
+  
 📈I’m looking forward to become a Python Developer.
+  
 📫 You can reach my directly through email address or Discord
 E-Mail: adrianwnek.code@gmail.com
 <!---
