@@ -2,7 +2,7 @@
 
 <h2>I'm from Poland and I live in Chicago, IL</h2>
 
-<p>👀 I’m interested in coding and I think it's Cool!
+<h5>👀 I’m interested in coding and I think it's Cool!</h5>
   
 💻My Skills: Coding Basics (HTML, CSS, JavaScript).
   
