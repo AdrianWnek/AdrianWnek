@@ -1,4 +1,4 @@
-<h1>👋Hello there! I’m Adrian! I'm from Poland and I live in Chicago,IL</h1>
+<h2>👋Hello there! I’m Adrian! I'm from Poland and I live in Chicago, IL</h2>
 
 
 👀 I’m interested in coding and I think it's Cool!
