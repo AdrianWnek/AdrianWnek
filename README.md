@@ -14,9 +14,12 @@
 🌱Studying Python🐍.
   
 📈I’m looking forward to become a Python Developer.
-  
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 📫 You can reach my directly through email address.
-E-Mail: adrianwnek.code@gmail.com
+<h3> adrianwnek.code@gmail.com </h3>
+
+<h2>My LinkedIn Profile: https://www.linkedin.com/in/adrian-wnek-06b383243/ </2>
 <!---
 AdrianWnek/AdrianWnek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
