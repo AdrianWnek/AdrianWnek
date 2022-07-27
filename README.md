@@ -1,7 +1,7 @@
 <h2>👋Hello there! I’m Adrian! I'm from Poland and I live in Chicago, IL</h2>
 <h4>Language Skills: Polish[Fluent], English[Fluent].
 
-  
+<about me>  
 👀 I’m interested in coding and I think it's Cool!
   
 💻My Skills: (HTML, CSS, JavaScript).
