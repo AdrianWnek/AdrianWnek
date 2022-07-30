@@ -3,7 +3,7 @@
 <h5>Polish[Fluent]</h5> 
 <h5>English[Fluent]</h5>
 <h5>Currently Learning: Brazilian[Portuguese].</h5>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
 👀 I’m interested in coding and I think it's Cool!
   
@@ -14,7 +14,7 @@
 🌱Studying Python🐍.
   
 📈I’m looking forward to become a Python Developer.
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?AdrianWnek=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 📫 You can reach my directly through email address.
 <h3> adrianwnek.code@gmail.com </h3>
