@@ -15,7 +15,7 @@
   
 📈I’m looking forward to become a Python Developer.
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?AdrianWnek=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?AdrianWnek=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 📫 You can reach my directly through email address.
 <h3> adrianwnek.code@gmail.com </h3>
