@@ -1,5 +1,6 @@
 <h2>👋
-Hello there! I’m Adrian! I'm from Poland and I live in Chicago, IL</h2>
+Hello there! I’m Adrian! 
+I'm from Poland and I live in Chicago, IL</h2>
 <h4>Language Skills:</h4> 
 <h5>Polish[Fluent]</h5> 
 <h5>English[Fluent]</h5>
