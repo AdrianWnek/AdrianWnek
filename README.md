@@ -9,13 +9,9 @@ I'm from Poland and I live in Chicago, IL</h2>
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
 👀 I’m interested in coding and I think it's Cool!
   
-💻My Skills: (HTML, CSS, JavaScript).
+💻My Skills: (HTML5, CSS, JavaScript, Python, SQL).
   
-📖Full-time student at DevMountain Coding Bootcamp.
-  
-🌱Studying Python🐍.
-  
-📈I’m looking forward to become a Python Developer.
+🎓2022 DevMountain Graduate
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 📫 You can reach my directly through email address.
