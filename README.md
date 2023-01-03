@@ -4,7 +4,6 @@ I'm from Poland and I live in Chicago, IL</h2>
 <h4>Language Skills:</h4> 
 <h5>Polish[Fluent]</h5> 
 <h5>English[Fluent]</h5>
-<h5>Currently Learning: [Portuguese].</h5>
 
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
 👀 I’m interested in coding and I think it's Cool!
