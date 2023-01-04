@@ -1,22 +1,20 @@
-<h2>👋
-Hi there! I’m Adrian! 
-I'm from Poland and I live in Chicago, IL</h2>
-<h4>Language Skills:</h4> 
-<h5>Polish[Fluent]</h5> 
-<h5>English[Fluent]</h5>
-
- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
-👀 I’m interested in coding and I think it's Cool!
-  
-💻My Skills: (HTML5, CSS, JavaScript, Python, SQL).
-  
-🎓2022 DevMountain Graduate
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-📫 You can reach my directly through email address.
-<h3> adrianwnek.code@gmail.com </h3>
-
-<h2>My LinkedIn Profile: https://www.linkedin.com/in/adrian-wnek-06b383243/ </2>
+<h1>Adrian Wnek</h1>
+<br>
+<h2>Education:</h2>
+<h4>2022 Devmountain Graduate</h4>
+<h4>Certificate: Devmountain Python Software Engineering</h4>
+<hr>
+<h2>Skills:</h2>
+<h4>Programming Languages: Python, HTML5, CSS, Javascript</h4>
+<h4>Frameworks: Flask, Bootstrap, NodeJs</h4>
+<h4>Database: PostgreSQL</h4>
+<hr>
+<h2>Contact:</h2>
+<h4>Email: adrianwnek.code@gmail.com</h4>
+<hr>
+<h2>Social Media:</h2>
+<h4>LinkedIn: https://www.linkedin.com/in/adrianwnekdev/</h4>
+<h4>Twitter: https://twitter.com/wnekdev</h4>
 <!---
 AdrianWnek/AdrianWnek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
