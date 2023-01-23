@@ -1,7 +1,7 @@
 <h1>Adrian Wnek</h1>
 <br>
 <h2>Education:</h2>
-<h4>2022 Devmountain Graduate</h4>
+<h4>Devmountain Coding Bootcamp</h4>
 <h4>Certificate: Devmountain Python Software Engineering</h4>
 <hr>
 <h2>Skills:</h2>
