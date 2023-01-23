@@ -2,7 +2,9 @@
 <br>
 <h2>Education:</h2>
 <h4>Devmountain Coding Bootcamp</h4>
-<h4>Certificate: Devmountain Python Software Engineering</h4>
+<hr>
+<h2>Certificate:</h2>
+<h4>Devmountain Python Software Engineering</h4>
 <hr>
 <h2>Skills:</h2>
 <h4>Python</h4>
