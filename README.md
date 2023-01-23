@@ -5,9 +5,11 @@
 <h4>Certificate: Devmountain Python Software Engineering</h4>
 <hr>
 <h2>Skills:</h2>
-<h4>Programming Languages: Python, HTML5, CSS, Javascript</h4>
-<h4>Frameworks: Flask, Bootstrap, NodeJs</h4>
-<h4>Database: PostgreSQL</h4>
+<h4>Python</h4>
+<h4>HTML5</h4>
+<h4>CSS</h4>
+<h4>Javascript</h4>
+<h4>PostgreSQL</h4>
 <hr>
 <h2>Contact:</h2>
 <h4>Email: adrianwnek.code@gmail.com</h4>
