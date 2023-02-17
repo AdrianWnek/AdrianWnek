@@ -6,7 +6,9 @@ Entry-Level Software Engineer
 
 <br>
 <h2>Education:</h2>
+<p>Lehi, UT</p>
 <h4>Devmountain Coding Bootcamp</h4>
+<p>Graduated: September 9, 2022</p>
 <hr>
 <h2>Certificate:</h2>
 <h4>Python Software Engineering</h4>
