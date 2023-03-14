@@ -18,7 +18,7 @@ Entry-Level Software Engineer
 <hr>
 <h3 align="left">Contact</h3>
 
-- 📫 How to reach me **adrianwnek.code@gmail.com**
+- 📫 How to reach me **awnek.software@gmail.com**
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
